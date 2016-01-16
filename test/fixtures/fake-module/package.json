@@ -5,6 +5,9 @@
   },
   "devDependencies": {
   },
+  "scripts": {
+    "install": "echo \"Running fake-module install script\""
+  },
   "author": "Konstantin Raev",
   "license": "MIT"
 }
