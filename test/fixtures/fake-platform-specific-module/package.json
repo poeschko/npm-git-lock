@@ -7,7 +7,7 @@
   "devDependencies": {
   },
   "scripts": {
-    "install": "echo \"Running custom install script\" && node install.js"
+    "postinstall": "echo \"Running custom install script\" && node install.js"
   },
   "author": "Jan Poeschko",
   "license": "MIT"
