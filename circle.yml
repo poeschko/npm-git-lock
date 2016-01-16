@@ -1,8 +1,6 @@
 machine:
   node:
-    version: 4
-  npm:
-    version: 3
+    version: 5
 test:
   override:
     - git config --global user.email "<>"
